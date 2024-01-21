@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to Nox's GitHub Page
 
-<!--
-**onoxbr/onoxbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Nox, a Discord bot developer with over 3 years of experience.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Discord Bot Developer
+- 🌐 Location: Brazil
+- 📅 Experience: 3 years
+
+## Programming Languages
+
+- JavaScript
+
+## Featured Projects
+
+- [Brook Bot](https://github.com/onoxbr/brook-bot): Private moderation bot
+- [Shady](https://github.com/onoxbr/shadybot) [IN DEVELOPMENT]
+- [colors-gradient-generator](https://www.npmjs.com/package/colors-gradient-generator): Simple and flexible package that allows you to generate color gradients for use in web projects, mobile apps, and more!
+
