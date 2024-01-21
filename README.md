@@ -14,7 +14,7 @@
 
 ## Featured Projects
 
-- [Brook Bot](https://github.com/onoxbr/brook-bot): Private moderation bot
+- [Brook Bot](https://github.com/onoxbr/brook-bot): A moderation bot for brook city
 - [Shady](https://github.com/onoxbr/shadybot) [IN DEVELOPMENT]
 - [colors-gradient-generator](https://www.npmjs.com/package/colors-gradient-generator): Simple and flexible package that allows you to generate color gradients for use in web projects, mobile apps, and more!
 
