@@ -1,6 +1,6 @@
 # Welcome to Nox's GitHub Page
 
-👋 Hello, I'm Nox, a Discord bot developer with over 3 years of experience.
+👋 Hello, I'm Nox, a Discord bot developer with over 4 years of experience.
 
 ## About Me
 
