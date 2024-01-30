@@ -14,7 +14,6 @@
 
 ## Featured Projects
 
-- [Brook Bot](https://github.com/onoxbr/brook-bot): A moderation bot for brook city
 - [DiscordJS Economy Template](https://github.com/onoxbr/DiscordJS-Economy-Template): Economy bot template with MongoDB
 - [colors-gradient-generator](https://www.npmjs.com/package/colors-gradient-generator): Simple and flexible package that allows you to generate color gradients for use in web projects, mobile apps, and more!
 
