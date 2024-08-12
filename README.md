@@ -6,7 +6,7 @@
 
 - 💻 Discord Bot Developer
 - 🌐 Location: Brazil
-- 📅 Experience: 4 years
+- 📅 Experience: 5 years
 
 ## Programming Languages
 
