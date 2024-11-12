@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 💻 Discord Bot Developer
+- 💻 JavaScript Developer (Focused on Discord bots)
 - 🌐 Location: Brazil
 - 📅 Experience: 5 years
 
