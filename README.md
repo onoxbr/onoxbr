@@ -2,10 +2,6 @@
   <img src="https://github.com/onoxbr/onoxbr/blob/main/Untitled.png" alt="Nox Header" width="100%" />
 </p>
 
-<p align="center">
-  <em>Full-stack developer passionate about performance, clean design, and building meaningful digital experiences.</em>
-</p>
-
 ---
 
 ### 🧠 About Me
